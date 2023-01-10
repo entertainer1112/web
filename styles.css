@@ -1,0 +1,104 @@
+    body {
+        margin: 0;
+        text-align: center;
+        font-family: 'Merriweather', serif;
+    }
+    
+    h1 {
+        margin: 50px auto 0 auto;
+        font-size: 5.625rem;
+        line-height: 2;
+        font-family: 'Sacramento', cursive;
+        color: #fe2651;
+    }
+    
+    h2 {
+        font-family: 'Montserrat', sans-serif;
+        font-size: 2.5rem;
+        color: #fe2651;
+        font-weight: normal;
+    }
+    
+    h3 {
+        color: #fe5881;
+        font-family: 'Montserrat', sans-serif;
+        text-align: center;
+    }
+    
+    .top-container {
+        background-color: #FF8E9E;
+        position: relative;
+        padding-top: 100px;
+    }
+    
+    .middle-container {
+        background-color: #F9B5D0;
+        padding-top: 5%;
+    }
+    
+    .down-container {
+        background-color: #EEEEEE;
+        padding-top: 10%;
+    }
+    
+    .design {
+        text-decoration: underline;
+    }
+    
+    .bottom-cloud {
+        position: absolute;
+        left: 300px;
+        bottom: 300px;
+    }
+    
+    .top-cloud {
+        position: absolute;
+        right: 300px;
+        top: 50px;
+    }
+    
+    .jashnly {
+        width: 50%;
+        float: left;
+    }
+    
+    .cult {
+        width: 25%;
+        float: right;
+    }
+    
+    .sym {
+        width: 25%;
+        float: left;
+    }
+    
+    .skill-row {
+        width: 50%;
+        margin: 100px auto 100px auto;
+        text-align: center;
+        line-height: 2;
+    }
+    
+    .project-row {
+        width: 50%;
+        margin: 100px auto 100px auto;
+        text-align: left;
+        line-height: 2;
+    }
+    
+    .btn {
+        -webkit-border-radius: 50;
+        -moz-border-radius: 50;
+        border-radius: 50px;
+        font-family: Courier New;
+        color: #ffffff;
+        font-size: 20px;
+        background: #d93481;
+        padding: 5px 10px 5px 10px;
+        text-decoration: none;
+    }
+    
+    .btn:hover {
+        background: #fc3c96;
+        text-decoration: none;
+    }
